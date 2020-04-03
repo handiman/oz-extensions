@@ -4,6 +4,13 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>OzExtensions</RootNamespace>
     <AssemblyName>OzExtensions</AssemblyName>
+    <Description>It's ok to be silly</Description>
+    <Copyright>Henrik Becker Consulting AB</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/handiman/oz-extensions</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <Authors>Henrik Becker</Authors>
+    <Company>Henrik Becker Consulting AB</Company>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
