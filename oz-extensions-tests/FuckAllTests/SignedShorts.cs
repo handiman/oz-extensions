@@ -3,6 +3,7 @@ using Xunit;
 
 namespace OzExtensions.Tests.FuckAllTests
 {
+    /// <summary>I prefer Billabong myself</summary>
     public sealed class SignedShorts
     {
         [Theory, MemberData(nameof(IsFuckAllData))]
