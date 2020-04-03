@@ -11,6 +11,8 @@
     <RepositoryType>git</RepositoryType>
     <Authors>Henrik Becker</Authors>
     <Company>Henrik Becker Consulting AB</Company>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>oz-extensions.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
