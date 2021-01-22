@@ -7,4 +7,4 @@
  jgs  ((()   ()))
 ```
 
- [![Build status](https://ci.appveyor.com/api/projects/status/r7l550fviuj7wrsq?svg=true)](https://ci.appveyor.com/project/henrikbecker/oz-extensions)
+ ![Build Status](https://dev.azure.com/henrikbecker/Demos/_apis/build/status/handiman.oz-extensions?branchName=master)
